@@ -36,4 +36,5 @@ Standard Assumptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7
  - [Derandomization in Cryptography](https://dash.harvard.edu/bitstream/handle/1/41467486/86374%2010.1.1.91.2701.pdf)
  - [Verifiable Random Functions from Non-interactive Witness-Indistinguishable Proofs](https://link.springer.com/article/10.1007/s00145-019-09331-1)
 ### VDF
+ - https://vdfresearch.org/
 ### PoW
