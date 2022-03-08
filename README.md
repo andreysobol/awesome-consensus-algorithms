@@ -7,5 +7,5 @@
 
 ## Algorithms
 
-[The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
-[PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+- [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
