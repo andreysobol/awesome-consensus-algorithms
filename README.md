@@ -38,3 +38,6 @@ Standard Assumptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7
 ### VDF
  - https://vdfresearch.org/
 ### PoW
+ - http://hashcash.org/
+ - https://bitcoin.org/bitcoin.pdf
+ - (add diffreent hashes)
