@@ -13,3 +13,12 @@
 
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+
+## Distributed randomness
+
+- Commit reveal
+- Shamir's Secret Sharing
+- Threshold cryptography
+- VRF
+- VDF
+- PoW
