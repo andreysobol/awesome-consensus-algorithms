@@ -41,3 +41,9 @@ Standard Assumptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7
  - http://hashcash.org/
  - https://bitcoin.org/bitcoin.pdf
  - (add diffreent hashes)
+
+## All possible selection approach
+- PoW
+- PoS
+- DPoS
+- Proof Of Space
