@@ -12,7 +12,15 @@
 ## Algorithms
 
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+- Raft
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+- Nakamoto Consensus
+- Honey Badger BFT
+- BABE/GRANDPA
+- Libra BFT
+- Ouroboros family (Ouroboros, Ouroboros-BFT, Ouroboros Praos)
+- Hashgraph
+- Avalanche
 
 ## Distributed randomness
 
