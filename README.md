@@ -28,6 +28,7 @@
 ### Shamir's Secret Sharing
 ### Threshold cryptography
 ### VRF:
+ - [Wikipedia](https://en.wikipedia.org/wiki/Verifiable_random_function)
  - [Micali, Rabin, Vadham (1999)](https://dash.harvard.edu/bitstream/handle/1/5028196/Vadhan_VerifRandomFunction.pdf)
  - [A verifiable random function with short proofs and keys](https://eprint.iacr.org/2004/310.pdf)
  - [Verifiable Random Functions from
