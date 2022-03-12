@@ -11,6 +11,9 @@
 
 ## Algorithms
 
+### The Byzantine Generals Problem
+- [The Byzantine Generals Problem](https://dl.acm.org/doi/pdf/10.1145/357172.357176)
+
 ### The Part-Time Parliament
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 
@@ -25,7 +28,9 @@
 
 ### Honey Badger BFT
 ### BABE/GRANDPA
-### Libra BFT
+
+### HotStuff and Libra
+- [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
 
 ### Ouroboros family
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
