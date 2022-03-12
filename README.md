@@ -47,3 +47,8 @@ Standard Assumptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7
 - PoS
 - DPoS
 - Proof Of Space
+
+## Attacks
+- Long range attacks: [A Survey on Long-Range Attacks for Proof of Stake Protocols](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8653269)
+- Selfish mining: [Majority is not Enough: Bitcoin Mining is Vulnerable
+](https://arxiv.org/abs/1311.0243)
