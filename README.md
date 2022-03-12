@@ -24,6 +24,8 @@
 
 ## Distributed randomness
 
+### Classics
+- (Coin Flipping by Telephone)[http://users.cms.caltech.edu/~vidick/teaching/101_crypto/Blum81_CoinFlipping.pdf]
 ### Commit reveal
 ### Shamir's Secret Sharing
 ### Threshold cryptography
