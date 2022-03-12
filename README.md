@@ -11,25 +11,29 @@
 
 ## Algorithms
 
+### The Part-Time Parliament
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
-- Raft
+
+### Raft
+
+### PBFT
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 
 ### Nakamoto Consensus 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Analysis of Nakamoto Consensus](https://eprint.iacr.org/2019/943.pdf)
 
-- Honey Badger BFT
-- BABE/GRANDPA
-- Libra BFT
+### Honey Badger BFT
+### BABE/GRANDPA
+### Libra BFT
 
 ### Ouroboros family
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
 - [Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol](https://eprint.iacr.org/2018/1049.pdf)
 - [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://eprint.iacr.org/2017/573.pdf)
 
-- Hashgraph
-- Avalanche
+### Hashgraph
+### Avalanche
 
 ## Distributed randomness
 
