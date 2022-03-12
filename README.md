@@ -14,7 +14,7 @@
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - Raft
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
-- Nakamoto Consensus
+- Nakamoto Consensus [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf), [Analysis of Nakamoto Consensus](https://eprint.iacr.org/2019/943.pdf)
 - Honey Badger BFT
 - BABE/GRANDPA
 - Libra BFT
