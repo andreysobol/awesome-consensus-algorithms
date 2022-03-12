@@ -32,6 +32,7 @@
 ### HotStuff and Libra
 - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
 - [State Machine Replication in the Libra Blockchain](https://cryptorating.eu/whitepapers/Libra/libra-consensus-state-machine-replication-in-the-libra-blockchain.pdf)
+- [DiemBFT v4: State Machine Replication in the Diem Blockchain](https://developers.diem.com/papers/diem-consensus-state-machine-replication-in-the-diem-blockchain/2021-08-17.pdf)
 
 ### Ouroboros family
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
