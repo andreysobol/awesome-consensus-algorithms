@@ -22,7 +22,12 @@
 - Honey Badger BFT
 - BABE/GRANDPA
 - Libra BFT
-- Ouroboros family (Ouroboros, Ouroboros-BFT, Ouroboros Praos)
+
+### Ouroboros family
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
+- [Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol](https://eprint.iacr.org/2018/1049.pdf)
+- [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://eprint.iacr.org/2017/573.pdf)
+
 - Hashgraph
 - Avalanche
 
