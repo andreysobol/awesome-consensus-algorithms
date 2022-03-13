@@ -21,6 +21,7 @@
 
 ### PBFT
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+- [Practical Byzantine Fault Tolerance and Proactive Recovery](https://pmg.csail.mit.edu/papers/bft-tocs.pdf)
 
 ### Q/U protocol
 - [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
