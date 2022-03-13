@@ -24,6 +24,8 @@
 
 ### Nakamoto Consensus 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)
+- [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048.pdf)
 - [Analysis of Nakamoto Consensus](https://eprint.iacr.org/2019/943.pdf)
 
 ### Honey Badger BFT
