@@ -26,6 +26,10 @@
 ### Q/U protocol
 - [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
 
+### Trusted Timely Computing Base
+- [The Design of a COTS Real-Time Distributed Security Kernel](https://navigators.di.fc.ul.pt/archive/ttcb-edcc.pdf)
+- [How to Tolerate Half Less One Byzantine Nodes in Practical Distributed Systems](https://www.gsd.inesc-id.pt/~mpc/pubs/correia_m_sma.pdf)
+
 ### On Expected Constant-Round Protocols for Byzantine Agreement
 - [On Expected Constant-Round Protocols for Byzantine Agreement](https://eprint.iacr.org/2006/065.pdf)
 
