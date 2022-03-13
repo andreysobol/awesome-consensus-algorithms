@@ -27,6 +27,7 @@
 - [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)
 - [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048.pdf)
 - [Analysis of Nakamoto Consensus](https://eprint.iacr.org/2019/943.pdf)
+- [But Why Does it Work? A Rational Protocol Design Treatment of Bitcoin](https://eprint.iacr.org/2018/138.pdf)
 
 ### Honey Badger BFT
 ### BABE/GRANDPA
