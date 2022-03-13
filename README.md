@@ -93,7 +93,10 @@
 ### Classics
 - [Coin Flipping by Telephone](http://users.cms.caltech.edu/~vidick/teaching/101_crypto/Blum81_CoinFlipping.pdf)
 - [An Optimally Fair Coin Toss](https://eprint.iacr.org/2009/214.pdf)
+
 ### Commit reveal
+- [Randao](https://github.com/randao/randao)
+
 ### Shamir's Secret Sharing
 ### Threshold cryptography
 ### VRF:
