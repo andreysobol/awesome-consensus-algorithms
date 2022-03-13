@@ -96,6 +96,7 @@
 
 ### Commit reveal
 - [Randao](https://github.com/randao/randao)
+- [Economically Viable Randomness](https://arxiv.org/pdf/2007.03531.pdf)
 
 ### Shamir's Secret Sharing
 ### Threshold cryptography
