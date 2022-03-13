@@ -31,6 +31,9 @@
 - [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf)
 
 ### Honey Badger BFT
+
+- [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
+
 ### BABE/GRANDPA
 
 ### HotStuff and Libra
