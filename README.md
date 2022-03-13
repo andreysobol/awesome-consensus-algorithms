@@ -47,6 +47,9 @@
 - [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://eprint.iacr.org/2017/573.pdf)
 
 ### Hashgraph
+- [The Swirlds hashgraph consensus algorithm: Fair, fast, byzantine tolerance](https://www.researchhub.com/paper/337/the-swirlds-hashgraph-consensus-algorithm-fair-fast-byzantine-fault-tolerance)
+- [Verifying the Hashgraph Consensus Algorithm](https://arxiv.org/pdf/2102.01167.pdf)
+
 ### Avalanche
 
 ## Distributed randomness
