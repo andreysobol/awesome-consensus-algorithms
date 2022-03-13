@@ -22,6 +22,10 @@
 ### PBFT
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 
+### Q/U protocol
+
+- [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
+
 ### Nakamoto Consensus 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)
