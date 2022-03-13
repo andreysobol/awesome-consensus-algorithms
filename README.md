@@ -23,8 +23,10 @@
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 
 ### Q/U protocol
-
 - [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
+
+### On Expected Constant-Round Protocols for Byzantine Agreement
+- [On Expected Constant-Round Protocols for Byzantine Agreement](https://eprint.iacr.org/2006/065.pdf)
 
 ### Efficient Synchronous Byzantine Consensus
 - [Efficient Synchronous Byzantine Consensus](https://arxiv.org/pdf/1704.02397.pdf)
