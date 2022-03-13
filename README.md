@@ -2,7 +2,7 @@
 
 ## Problems
 
-- [Byzantine generals problem](https://en.wikipedia.org/wiki/Byzantine_fault)
+- [Byzantine generals problem](https://en.wikipedia.org/wiki/Byzantine_fault), [The real Byzantine Generals](https://www.researchgate.net/publication/4122503_The_real_Byzantine_Generals)
 - [Fault tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
 
 ## Synchrony models
