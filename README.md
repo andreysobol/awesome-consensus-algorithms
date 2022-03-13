@@ -5,6 +5,9 @@
 - [Byzantine generals problem](https://en.wikipedia.org/wiki/Byzantine_fault), [The real Byzantine Generals](https://www.researchgate.net/publication/4122503_The_real_Byzantine_Generals)
 - [Fault tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
 
+## Limitations:
+- [A Simple Bivalency Proof that t-Resilient Consensus Requires t + 1 Rounds](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.402&rep=rep1&type=pdf)
+
 ## Synchrony models
 
 - [Synchrony, Asynchrony and Partial synchrony](https://decentralizedthoughts.github.io/2019-06-01-2019-5-31-models/)
@@ -13,6 +16,12 @@
 
 ### The Byzantine Generals Problem
 - [The Byzantine Generals Problem](https://dl.acm.org/doi/pdf/10.1145/357172.357176)
+
+### Completely Asynchronous Agreement Protocols
+- [Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols][https://allquantor.at/blockchainbib/pdf/ben1983another.pdf]
+
+### An Efficient Algorithm for Byzantine Agreement without Authentication
+- [An Efficient Algorithm for Byzantine Agreement without Authentication](https://groups.csail.mit.edu/tds/papers/Lynch/dffls-ic.pdf)
 
 ### The Part-Time Parliament
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
@@ -28,6 +37,9 @@
 
 ### Q/U protocol
 - [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
+
+### Uniform consensus
+- [Uniform consensus is harder than consensus](https://infoscience.epfl.ch/record/88273)
 
 ### Trusted Timely Computing Base
 - [The Design of a COTS Real-Time Distributed Security Kernel](https://navigators.di.fc.ul.pt/archive/ttcb-edcc.pdf)
@@ -50,6 +62,9 @@
 ### Honey Badger BFT
 
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
+
+### Byzantine Agreement, Made Trivial
+- [Byzantine Agreement, Made Trivial](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Distributed%20Computation/BYZANTYNE%20AGREEMENT%20MADE%20TRIVIAL.pdf)
 
 ### BABE/GRANDPA
 
