@@ -18,7 +18,7 @@
 - [The Byzantine Generals Problem](https://dl.acm.org/doi/pdf/10.1145/357172.357176)
 
 ### Completely Asynchronous Agreement Protocols
-- [Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols][https://allquantor.at/blockchainbib/pdf/ben1983another.pdf]
+- [Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://allquantor.at/blockchainbib/pdf/ben1983another.pdf)
 
 ### An Efficient Algorithm for Byzantine Agreement without Authentication
 - [An Efficient Algorithm for Byzantine Agreement without Authentication](https://groups.csail.mit.edu/tds/papers/Lynch/dffls-ic.pdf)
