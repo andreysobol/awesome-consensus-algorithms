@@ -19,6 +19,9 @@
 
 ### Raft
 
+### An Optimal Probabilistic Algorithm for Byzantine Agreement
+- [An Optimal Probabilistic Algorithm for Byzantine Agreement](http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Distributed%20Computation/An%20Optimal%20Probabilistic%20Algorithm%20for%20Byzantine%20Agreement.pdf)
+
 ### PBFT
 - [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [Practical Byzantine Fault Tolerance and Proactive Recovery](https://pmg.csail.mit.edu/papers/bft-tocs.pdf)
