@@ -26,6 +26,9 @@
 
 - [Fault-Scalable Byzantine Fault-Tolerant Services](https://www.pdl.cmu.edu/PDL-FTP/PASIS/sosp05.pdf)
 
+### Efficient Synchronous Byzantine Consensus
+- [Efficient Synchronous Byzantine Consensus](https://arxiv.org/pdf/1704.02397.pdf)
+
 ### Nakamoto Consensus 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)
